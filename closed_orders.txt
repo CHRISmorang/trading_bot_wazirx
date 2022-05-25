@@ -1,0 +1,2 @@
+2022-05-25T19:38:59.338022
+{'id': 3031943865, 'symbol': 'busdusdt', 'type': 'limit', 'side': 'buy', 'status': 'wait', 'price': '0.9878', 'origQty': '5.67', 'executedQty': '0.0', 'createdTime': 1653487738000, 'updatedTime': 1653487738000}
